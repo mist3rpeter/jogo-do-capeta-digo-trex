@@ -39,7 +39,7 @@ samb4= loadSound('checkPoint.mp3')
 
 
 function setup(){ // todas as configuraçoes dos objetos
-  createCanvas(windowWidth,windowHeigth)
+  createCanvas(windowWidth,windowHeight)
   
   simvem= new Group()
   cirila= new Group()
